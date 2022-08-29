@@ -22,7 +22,7 @@ Através desses links você terá acesso a [página web](https://danoliveiradev.
 
 ## 👥 **Contribuição**
 
-[`Matheus Alberto Marcus`](https://www.linkedin.com/in/matheus-alberto-marcus/)
+[`Alura`](https://www.alura.com.br/)
   
 ## 🤓 **Desenvolvedores**
 
