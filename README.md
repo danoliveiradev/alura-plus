@@ -8,7 +8,7 @@
 Projeto desenvolvido no curso de formação em HTML e CSS da [Alura](https://www.alura.com.br/), cujo objetivo era desenvolver um site de streaming de videos para exercitarmos os conceitos de flexbox e grid.
 
 <p align="center">
-  <img src=""/>
+  <img src="assets/img/captura.png"/>
 </p>
 
 ## 📂 **Acesso ao projeto**
